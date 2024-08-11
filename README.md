@@ -6,7 +6,8 @@
 
 | Project | Web |
 | --- | --- |
-| Twitter Card | [Visitar](https://twitter-card-prod.vercel.app/) |
-| Tic Tac Toe | [Visitar](https://tic-tac-toe-prod.vercel.app/) |
+| Twitter Card | [Visit](https://twitter-card-prod.vercel.app/) |
+| Tic Tac Toe | [Visit](https://tic-tac-toe-prod.vercel.app/) |
+| Pointer Follower | [Visit](https://pointer-follower.vercel.app/) |
 
 </div>
