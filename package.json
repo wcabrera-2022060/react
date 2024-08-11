@@ -8,7 +8,8 @@
   },
   "workspaces": [
     "twitter-card",
-    "tic-tac-toe"
+    "tic-tac-toe",
+    "pointer-follower"
   ],
   "keywords": [],
   "author": "",
